@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashwant1105
 - 👀 I’m interested in surfing tech and sports.
-- 🌱 I’m currently learning InfoTech
-- 💞️ I’m looking to collaborate on app development
+- 🌱 I’m currently pursuing my Bachelors in InfoTech.
+- 💞️ I’m looking to collaborate on projects related to Python,SQL,C,C++
 - 📫 How to reach me: https://www.linkedin.com/in/yashwant-sahoo-a34008288/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a messiholic person 😉
