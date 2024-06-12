@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to Python,SQL,C,C++
 - 📫 How to reach me: https://www.linkedin.com/in/yashwant-sahoo-a34008288/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a messiholic person 😉
+- ⚡ Factos: I'm a messiholic person 😉
 
 <!---
 Yashwant1105/Yashwant1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
