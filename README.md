@@ -37,5 +37,5 @@ Feel free to reach out to me for collaboration or further discussions!
   ![Yashwant1105's Stats](https://github-readme-stats.vercel.app/api?username=Yashwant1105&theme=flag-india&show_icons=true&hide_border=false&count_private=true)
   ![Yashwant1105's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant1105&theme=flag-india&show_icons=true&hide_border=false&layout=compact)
 
-  <!--START_SECTION:<Yashwant1105>/<Yashwant1105>-->
-  <!--END_SECTION:COMMIT_MESSAGE-->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
