@@ -40,11 +40,11 @@ Feel free to reach out to me for collaboration or further discussions!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 July 2024 - To: 28 July 2024
+From: 24 July 2024 - To: 29 July 2024
 
-Total Time: 2 hrs 45 mins
+Total Time: 4 hrs 32 mins
 
-Java   2 hrs 45 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Java   4 hrs 32 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
