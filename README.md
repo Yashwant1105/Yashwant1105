@@ -31,10 +31,10 @@ Feel free to reach out to me for collaboration or further discussions!
 ## 📈 GitHub Stats
 
 
-  ![Yashwant1105's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashwant1105&theme=flag-india&hide_border=true)
+  ![Yashwant1105's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashwant1105&theme=great-gatsby&hide_border=true)
  
-  ![Yashwant1105's Stats](https://github-readme-stats.vercel.app/api?username=Yashwant1105&theme=flag-india&show_icons=true&hide_border=true&count_private=true)
-  ![Yashwant1105's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant1105&theme=flag-india&show_icons=true&hide_border=true&layout=compact)
+  ![Yashwant1105's Stats](https://github-readme-stats.vercel.app/api?username=Yashwant1105&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
+  ![Yashwant1105's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant1105&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
 
