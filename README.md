@@ -7,10 +7,10 @@ Hello! I'm Yashwant, a 2nd-year student pursuing B.Tech in Information Technolog
 
 ## 📝 Projects
 
-### Expense Tracker
-- **Description**: This project helps users track their expenses efficiently.
-- **Technologies**: Flutter (Dart), State management, Custom widgets, Theming.
-- **GitHub Repository**: [Expense Tracker](https://github.com/Yashwant1105/Expense_Tracker)
+### BudgetBee
+- **Description**: This project helps users track their expenses efficiently with user authentication added.
+- **Technologies**: Flutter (Dart), State management, Custom widgets, Theming, User Authentication
+- **GitHub Repository**: [BudgetBee](https://github.com/Yashwant1105/BudgetBee)
 
 ### Quiz App
 - **Description**: A quiz application to test knowledge on various topics.
