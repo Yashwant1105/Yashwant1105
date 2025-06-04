@@ -3,7 +3,7 @@
 
 
 ## 🧑🏻‍🎓 About Me 
-Hello! I'm Yashwant, a 2nd-year student pursuing B.Tech in Information Technology 📚. My journey into programming started with a curiosity to understand how technology can impact our daily lives. Beyond the classroom, I find joy in exploring the realms of cricket and football, where teamwork and strategy mirror the problem-solving aspects of coding.
+Hello! I'm Yashwant, a pre-final year student pursuing B.Tech in Information Technology 📚. My journey into programming started with a curiosity to understand how technology can impact our daily lives. Beyond the classroom, I find joy in exploring the realms of cricket and football, where teamwork and strategy mirror the problem-solving aspects of coding.
 
 ## 📝 Projects
 
