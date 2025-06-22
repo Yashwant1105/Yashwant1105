@@ -1,7 +1,7 @@
 # **Yashwant's Portfolio**
 <br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w2c3ZpMGYzYmRjaThob2t2dXh2bDhjMGE1emhvb3p0OHgyNG9tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 </div>
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yashwantsahoo/">
