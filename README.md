@@ -10,7 +10,8 @@
  </div>
 
 ## 🧑🏻‍🎓 About Me 
-Hello! I'm Yashwant, a pre-final year student pursuing B.Tech in Information Technology 📚. My journey into programming started with a curiosity to understand how technology can impact our daily lives. Beyond the classroom, I find joy in exploring the realms of cricket and football, where teamwork and strategy mirror the problem-solving aspects of coding.
+Hello! I'm Yashwant, a pre-final year B.Tech Information Technology student passionate about building tech solutions. My programming journey began out of curiosity—wanting to understand how technology shapes and simplifies everyday life.
+Over time, this curiosity evolved into action. I’ve explored app development, where I brought ideas to life by designing and deploying user-centric mobile applications. Parallelly, I ventured into the world of data engineering, working with tools like Azure Data Factory, Databricks, and Snowflake, and gaining hands-on experience in building robust data pipelines and transforming raw data into valuable insights.
 
 ## 📝 Projects
 
