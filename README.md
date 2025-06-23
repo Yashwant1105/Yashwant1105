@@ -1,4 +1,4 @@
-# **Yashwant's Portfolio**
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&letterSpacing=1+px&duration=6900&pause=1000&color=F7F7F7&background=0D1117&vCenter=true&random=true&width=435&lines=Welcome+to+Yashwant's+Portfolio" alt="Typing SVG" /></a>
 <br>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w2c3ZpMGYzYmRjaThob2t2dXh2bDhjMGE1emhvb3p0OHgyNG9tZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
