@@ -25,7 +25,7 @@ Over time, this curiosity evolved into action. I’ve explored app development, 
 - **Technologies**: Flutter (Dart), Theming, State and Asset management.
 - **GitHub Repository**: [Quiz App](https://github.com/Yashwant1105/Quiz_App)
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
@@ -43,10 +43,9 @@ Over time, this curiosity evolved into action. I’ve explored app development, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  
-
-  
+    
 </div>
+
 
 ## ☎️ Contact
 - GitHub: [Yashwant1105](https://github.com/Yashwant1105)
@@ -58,8 +57,10 @@ Feel free to reach out to me for collaboration or further discussions!
 ## 📈 GitHub Stats
 <!-- ![Yashwant1105's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashwant1105&theme=great-gatsby&hide_border=true) -->
  
-  ![Yashwant1105's Stats](https://github-readme-stats.vercel.app/api?username=Yashwant1105&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
-  ![Yashwant1105's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant1105&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+  ![Yashwant1105's Stats](https://github-readme-stats.vercel.app/api?username=Yashwant1105&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true&card_width=500) <br>
+  ![Yashwant1105's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant1105&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact&card_width=500)
+  <br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Yashwant1105&theme=gruvbox&title=-Issues,-Reviews&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
 
