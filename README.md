@@ -25,7 +25,7 @@ Over time, this curiosity evolved into action. I’ve explored app development, 
 - **Technologies**: Flutter (Dart), Theming, State and Asset management.
 - **GitHub Repository**: [Quiz App](https://github.com/Yashwant1105/Quiz_App)
 
-## :hammer_and_wrench: Languages and Tools :
+## 🛠️ Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
