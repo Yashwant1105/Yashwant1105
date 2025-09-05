@@ -15,15 +15,21 @@ Over time, this curiosity evolved into action. I’ve explored app development, 
 
 ## 📝 Projects
 
-### BudgetBee
-- **Description**: This project helps users track their expenses efficiently with user authentication added.
-- **Technologies**: Flutter (Dart), State management, Custom widgets, Theming, User Authentication
+### 💸🐝 BudgetBee
+- **Description**: A mobile app that helps users track and manage daily expenses. It allows adding and viewing expenses, supports authentication, categorization, and spending analytics, offering valuable insights into financial habits.
+- **Technologies**: Flutter, Dart, Supabase, Figma, 
 - **GitHub Repository**: [BudgetBee](https://github.com/Yashwant1105/BudgetBee)
 
-### Quiz App
-- **Description**: A quiz application to test knowledge on various topics.
-- **Technologies**: Flutter (Dart), Theming, State and Asset management.
-- **GitHub Repository**: [Quiz App](https://github.com/Yashwant1105/Quiz_App)
+### 🎶 Playlist Converter App
+- **Description**: An application that helps users convert playlists between different music platforms primarily Spotify, Youtube Music and SoundCloud.
+- **Technologies**: Flutter, Dart, MongoDB, Supabase, Figma
+- ***Under Development**
+
+### 💒 Ootsav
+- **Description**: A cross-platform event planning app for weddings, birthdays, and more. Supports sub-events with timeline view, RSVP tracking, and guest group management.
+- **Technologies**: Flutter, Dart, Django, Figma
+- ***Under Development**
+  
 
 ## 🛠️ Languages and Tools
 <div>
@@ -50,6 +56,7 @@ Over time, this curiosity evolved into action. I’ve explored app development, 
 ## ☎️ Contact
 - GitHub: [Yashwant1105](https://github.com/Yashwant1105)
 - LinkedIn: [Yashwant Sahoo](https://www.linkedin.com/in/yashwantsahoo10/)
+- Portfolio: [Yash's Portfolio](https://www.yashwantsahoo.in/)
 
 Feel free to reach out to me for collaboration or further discussions!
 
