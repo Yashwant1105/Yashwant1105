@@ -71,12 +71,12 @@ Feel free to reach out to me for collaboration or further discussions!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 July 2024 - To: 12 November 2025
+From: 24 July 2024 - To: 13 November 2025
 
-Total Time: 355 hrs 2 mins
+Total Time: 355 hrs 8 mins
 
-Dart                 143 hrs 22 mins >>>>>>>>>>---------------   40.29 %
-Java                 57 hrs 34 mins  >>>>---------------------   16.18 %
+Dart                 143 hrs 22 mins >>>>>>>>>>---------------   40.28 %
+Java                 57 hrs 40 mins  >>>>---------------------   16.20 %
 C++                  50 hrs 28 mins  >>>>---------------------   14.18 %
 Python               39 hrs 53 mins  >>>----------------------   11.21 %
 HTML                 23 hrs 13 mins  >>-----------------------   06.53 %
