@@ -62,12 +62,11 @@ Feel free to reach out to me for collaboration or further discussions!
 
 
 ## 📈 GitHub Stats
-<!-- ![Yashwant1105's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashwant1105&theme=great-gatsby&hide_border=true) -->
+<!-- ![Yashwant1105's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashwant1105&theme=great-gatsby&hide_border=true) 
  
   ![Yashwant1105's Stats](https://github-readme-stats.vercel.app/api?username=Yashwant1105&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true&card_width=500) <br>
   ![Yashwant1105's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwant1105&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact&card_width=500)<br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Yashwant1105&theme=gruvbox&title=-Issues,-Reviews&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Yashwant1105&theme=gruvbox&title=-Issues,-Reviews&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!--START_SECTION:waka-->
 
 ```rust
