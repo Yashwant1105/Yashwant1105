@@ -120,7 +120,7 @@ Currently, I'm particularly interested in **Data Engineering, Cloud Computing, B
 
 * **GitHub:** [Yashwant1105](https://github.com/Yashwant1105)
 * **LinkedIn:** [Yashwant Sahoo](https://www.linkedin.com/in/yashwantsahoo)
-* **Portfolio:** [Yash's Portfolio](https://www.yashwantsahoo.in/)
+* **Portfolio:** [Yash's Portfolio](https://yash-portfolio-liard.vercel.app/)
 
 Feel free to reach out for collaboration, interesting projects, or just to talk tech!
 
