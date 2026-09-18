@@ -60,7 +60,7 @@ Currently, I'm particularly interested in **Data Engineering, Cloud Computing, B
 * **Description**: A cross-platform event planning application designed for weddings, birthdays, and other celebrations.
 * **Features**: Event and sub-event management, timeline-based planning, RSVP tracking, and guest group management.
 * **Technologies**: Flutter, Dart, Django, Figma
-* **Google Play**: [Ootsav: Event Planner & RSV](https://play.google.com/store/apps/details?id=com.ootsav&pcampaignid=web_share)
+* **Google Play**: [Ootsav: Event Planner & RSVP](https://play.google.com/store/apps/details?id=com.ootsav&pcampaignid=web_share)
 
 ---
 
