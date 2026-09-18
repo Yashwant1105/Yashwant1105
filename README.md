@@ -28,6 +28,14 @@ Currently, I'm particularly interested in **Data Engineering, Cloud Computing, B
 
 ## 📝 Projects
 
+### 🧠 NEO 150 PREP
+
+* **Description**: A full-stack coding interview preparation platform built to assist with the **NeetCode 150** roadmap.
+* **Features**: Daily prep recommendations, problem tracking, goals and streaks, progress analytics, achievements, interview practice, AI feedback, push notifications, and AI-powered motivation based on user progress.
+* **Technologies**: Flutter, Dart, Supabase, PostgreSQL, Gemini API, Firebase Hosting, Web Push, FCM
+* **Live Demo**: [Neo 150 Prep](https://neo-150-prep.web.app/)
+
+
 ### ✈️ Flight Delay Prediction Pipeline
 
 * **Description**: An end-to-end AWS data and machine learning pipeline for flight delay prediction and real-time deployment.
@@ -39,12 +47,13 @@ Currently, I'm particularly interested in **Data Engineering, Cloud Computing, B
 * **Technologies**: AWS S3, AWS Athena, Amazon SageMaker, EC2, Docker, FastAPI, Power BI, Python, XGBoost
 * **GitHub Repository**: [Flight Delay Prediction Pipeline](https://github.com/dshryn/etl-pipeline-aws)
 
-### 💸🐝 BudgetBee
+### 🚕 NYC Cab Surge Price Predictor
 
-* **Description**: A mobile application for tracking and managing personal expenses with authentication, categorization, and spending analytics.
-* **Features**: Add and manage expenses, categorize transactions, view spending patterns, and analyze financial habits.
-* **Technologies**: Flutter, Dart, Supabase, Figma
-* **GitHub Repository**: [BudgetBee](https://github.com/Yashwant1105/BudgetBee)
+* **Description**: A machine learning dashboard that predicts surge pricing probability for NYC yellow cabs using real-world taxi data.
+* **Data & ML**: Built the pipeline using **PySpark on Databricks**, with Logistic Regression, Decision Tree, and Random Forest models for surge prediction.
+* **Interactive Dashboard**: Developed a **Streamlit + Plotly** dashboard with live surge probability, risk levels, feature contribution analysis, what-if simulations, model comparison, and an NYC demand heatmap.
+* **Technologies**: PySpark, Databricks, Python, Scikit-learn, Streamlit, Plotly
+* **GitHub Repository**: [NYC Cab Surge Price Predictor](https://github.com/Yashwant1105/nyc-cab-surge-predictor)
 
 ### 💒 Ootsav
 
